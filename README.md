@@ -18,3 +18,5 @@ Step nr 8:
 - continuing unit tests
 Step nr 9:
 - creating and testing Bike class
+Step nr 10:
+- Making docking stations release bikes
