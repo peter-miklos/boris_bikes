@@ -16,3 +16,5 @@ Step nr 7:
 - continuing feature tests
 Step nr 8:
 - continuing unit tests
+Step nr 9:
+- creating and testing Bike class
