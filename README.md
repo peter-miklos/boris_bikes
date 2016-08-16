@@ -6,3 +6,5 @@ Step nr 2:
 - start creating user stories and deliver a Domain Model
 Step nr 3:
 - deliver a feature test
+Step nr 4:
+- understanding the error message
