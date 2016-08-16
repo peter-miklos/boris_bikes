@@ -10,3 +10,5 @@ Step nr 4:
 - understanding the error message
 Step nr 5:
 - creating unit test
+Step nr 6:
+- passing the first unit test
