@@ -12,3 +12,5 @@ Step nr 5:
 - creating unit test
 Step nr 6:
 - passing the first unit test
+Step nr 7:
+- continuing feature tests
