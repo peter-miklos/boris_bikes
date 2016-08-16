@@ -14,3 +14,5 @@ Step nr 6:
 - passing the first unit test
 Step nr 7:
 - continuing feature tests
+Step nr 8:
+- continuing unit tests
