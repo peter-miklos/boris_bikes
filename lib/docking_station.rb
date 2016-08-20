@@ -13,6 +13,6 @@ class DockingStation
   end
   # will dock a bike
   def dock(bike)
-    @available_bikes.push(bike)
+    @available_bikes << bike
   end
 end
